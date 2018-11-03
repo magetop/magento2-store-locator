@@ -17,7 +17,7 @@
 
 - Extension details : https://www.magetop.com/magento-2-store-locator-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full/storelocator
-- Backend demo : https://magento2.demo.magetop.com/demo-full/admin/
+- Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
 ## Support & Contact info
 
